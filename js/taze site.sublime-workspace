@@ -1,0 +1,502 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"v",
+				"visible-xs"
+			],
+			[
+				"vis",
+				"visible-md"
+			],
+			[
+				"a",
+				"auto\tmargin-right"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"pa",
+				"padding-right\tproperty"
+			],
+			[
+				"b",
+				"bottom\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"o",
+				"overflow\tproperty"
+			],
+			[
+				"marg",
+				"margin-right\tproperty"
+			],
+			[
+				"me",
+				"menu-item-tile"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"menu-",
+				"menu-item-tile"
+			],
+			[
+				"col",
+				"col-sm-4"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"tex",
+				"text-transform\tproperty"
+			],
+			[
+				"r",
+				"right\tproperty"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"i",
+				"italic\tfont-style"
+			],
+			[
+				"borde",
+				"border-top\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"ba",
+				"background-repeat\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"co",
+				"col-xs-12"
+			],
+			[
+				"le",
+				"letter-spacing\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"vi",
+				"visible-xs"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"background",
+				"background-image\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"im",
+				"img"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"t",
+				"text-transform\tproperty"
+			],
+			[
+				"p",
+				"padding-top\tproperty"
+			],
+			[
+				"lo",
+				"Logo"
+			],
+			[
+				"min-",
+				"min-width\tproperty"
+			],
+			[
+				"cl",
+				"clear\tproperty"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"text-",
+				"text-align\tproperty"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"na",
+				"navbar"
+			],
+			[
+				"f",
+				"font-size\tproperty"
+			],
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"j",
+				"jpg"
+			],
+			[
+				"m",
+				"margin\tproperty"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"st",
+				"styles"
+			],
+			[
+				"sr",
+				"script\tTag"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"margin-",
+				"margin-bottom\tproperty"
+			],
+			[
+				"rg",
+				"rgba()\tbackground-color"
+			],
+			[
+				"re",
+				"no-repeat\tbackground-repeat"
+			],
+			[
+				"B",
+				"box"
+			],
+			[
+				"F",
+				"font-size\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"w",
+				"width\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"WELA",
+				"WELAYATLAR"
+			],
+			[
+				"s",
+				"section\tTag"
+			],
+			[
+				"U",
+				"UL\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"met",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Maksat/Desktop/HTML/css/bootstrap.min.css",
+		"/C/Users/Maksat/Desktop/HTML/js/tore22.html",
+		"/C/Users/Maksat/Desktop/HTML/js/script.js",
+		"/C/Users/Maksat/Desktop/HTML/css/taze.html",
+		"/C/Users/Maksat/Documents/Лаба ФКП/Laba5. Fkp/Laba5. Fkp.sln",
+		"/C/Users/Maksat/Desktop/HTML/css/styles.css",
+		"/C/Users/Maksat/Desktop/HTML/js/single cat.html",
+		"/C/Users/Maksat/Desktop/HTML/js/mennnn",
+		"/C/Users/Maksat/Desktop/HTML/js/menu.html",
+		"/C/Users/Maksat/Desktop/HTML/twitterr.html",
+		"/C/Users/Maksat/Desktop/HTML/TURKMENISTAN 4.html",
+		"/C/Users/Maksat/Desktop/HTML/css/bootstrap.css",
+		"/C/Users/Maksat/Desktop/HTML/js/index.html",
+		"/C/Users/Maksat/Desktop/HTML/js/menu-categories",
+		"/C/Users/Maksat/Desktop/HTML/images/bistro.png",
+		"/C/Users/Maksat/Desktop/HTML/images/logo.png",
+		"/C/Users/Maksat/Desktop/HTML/css/stylesss",
+		"/C/Users/Maksat/Desktop/HTML/taze.html",
+		"/C/Users/Maksat/Desktop/HTML/new site",
+		"/C/Users/Maksat/Desktop/HTML/media quaries.html",
+		"/C/Users/Maksat/Desktop/HTML/boooottt.html",
+		"/C/Users/Maksat/Desktop/HTML/css/bootstrap-theme.css",
+		"/C/Users/Maksat/Desktop/HTML/twiitter",
+		"/C/Users/Maksat/Desktop/HTML/INHERRRR.html",
+		"/C/Users/Maksat/Desktop/HTML/connnnnn.html",
+		"/C/Users/Maksat/Desktop/HTML/flo.html",
+		"/C/Users/Maksat/Desktop/HTML/backgr.html",
+		"/C/Users/Maksat/Desktop/HTML/floating",
+		"/C/Users/Maksat/Desktop/HTML/background",
+		"/C/Users/Maksat/Desktop/HTML/STILLL.html",
+		"/C/Users/Maksat/Desktop/HTML/styling",
+		"/C/Users/Maksat/Desktop/HTML/confff.html",
+		"/C/Users/Maksat/Desktop/HTML/conflict resol",
+		"/C/Users/Maksat/Desktop/HTML/inheran",
+		"/C/Users/Maksat/Desktop/HTML/pseudo class selectors",
+		"/C/Users/Maksat/Desktop/HTML/place.html",
+		"/C/Users/Maksat/Desktop/HTML/external.css",
+		"/C/Users/Maksat/Desktop/HTML/tmmmm.html",
+		"/C/Users/Maksat/Desktop/HTML/style placement",
+		"/C/Users/Maksat/Desktop/HTML/pseudo class selectors 2.html",
+		"/C/Users/Maksat/Desktop/HTML/decendant selector.html",
+		"/C/Users/Maksat/Desktop/HTML/combining selectors.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "taze site.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Maksat\\Desktop\\tore.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 252.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
